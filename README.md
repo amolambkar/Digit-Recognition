@@ -9,8 +9,13 @@ The data set used for this problem is from the populat MNIST data set. Developed
 
 ## More about data
 
+
 train.csv contain filenames with labels from train data.
+
 train_data1.csv contains pixel data of every image from train data.
+
 test_data1.csv contains pixel data of every image from train data
+
 test.csv contains filenames of test data.
+
 sample_submission.csv contains sample format for submitting solution.
