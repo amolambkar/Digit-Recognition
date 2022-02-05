@@ -1,6 +1,9 @@
 # Digit-Recognition
 Digit recognition using CNN  (Accuracy 99.41 %)
 
+[![IMAGE_ALT](https://i9.ytimg.com/vi/YDuPdMfW3XU/mq3.jpg?sqp=CIzT-o8G&rs=AOn4CLDF7XZ6e_ZzHIv1WB6Op8tFVwNhPA)](https://youtu.be/YDuPdMfW3XU)
+
+
 Here, we need to identify the digit in given images. We have total 70,000 images, out of which 49,000 are part of train images with the label of digit and rest 21,000 images are unlabeled (known as test images). Now, We need to identify the digit for test images
 
 ## About Data:
